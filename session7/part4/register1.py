@@ -1,0 +1,7 @@
+print('ĐĂNG KÍ TÀI KHOẢN')
+uname = input('Tên đăng nhập: ')
+print('Đã xác nhận thông tin cho tài khoản', uname)
+password1 = str(input('Mật khẩu: '))
+print('Đã xác nhận mật khẩu cho tài khoản', uname)
+email = input('Email: ')
+print('Đăng kí thành công tài khoản', uname)

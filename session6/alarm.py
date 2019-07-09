@@ -48,7 +48,7 @@ while whilem < 1:
         rm = randint(0,59)
         print('Ví dụ:', alh, 'giờ', rm, 'phút.')
 while True:
-    if hr = ah and mr = am:
+    if hr == ah and mr == am:
         for alarm in range (5):
             print('BÁO THỨC.')
             print('BÁO THỨC..')
